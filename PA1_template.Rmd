@@ -5,7 +5,7 @@ date: "Tuesday, January 13, 2015"
 output: html_document
 ---
 This project makes use of data from a personal activity monitoring device. This device collects data at 5 minute intervals through out the day. The data consists of two months of data from an anonymous individual collected during the months of October and November, 2012 and include the number of steps taken in 5 minute intervals each day.  
-   
+To see the output of this file, please visit http://rpubs.com/topramen/53905   
 
 
 ###Loading and preprocessing the data
